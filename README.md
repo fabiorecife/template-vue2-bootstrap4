@@ -1,6 +1,10 @@
-# blog
+# Template Vue 2 + bootstrap 4
 
 > Template for project using bootstrap 4
+
+```
+builded with vue-cli 3.0.0-rc.3
+```
 
 ## Build Setup
 
